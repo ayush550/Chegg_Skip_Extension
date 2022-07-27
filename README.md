@@ -7,7 +7,7 @@
 
 ### How to Use in Google Chrome(Desktop/Laptop)
 1. Download zip file from [here](https://github.com/dalchandra/Chegg_Skip_Extension) and unzip to local storage.
-2. Open Chrome or other browser and navigate to extensions settings tabs
+2. Open Chrome and navigate to extensions settings tabs
 3. Enable Developer mode
 4. Click the Load unpacked extension , select the unzipped folder.
 5. Refresh Chegg QNA Dashboard and enjoy it.
